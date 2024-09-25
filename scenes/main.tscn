@@ -7,3 +7,7 @@ script = ExtResource("1_6im11")
 
 [node name="Triangulation" type="Triangulation" parent="."]
 position = Vector2(100, 100)
+
+[node name="Camera2D" type="Camera2D" parent="."]
+anchor_mode = 0
+enabled = false
